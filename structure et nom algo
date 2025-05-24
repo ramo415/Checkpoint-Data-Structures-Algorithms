@@ -1,0 +1,38 @@
+ Structures de données testées :
+Tableaux (Arrays)
+
+Listes chaînées (Linked Lists)
+
+Piles (Stacks)
+
+Files (Queues)
+
+Arbres binaires (Binary Trees)
+
+Graphes (Graphs)
+
+Tables de hachage (Hash Tables)
+
+Tas (Heaps)
+
+Tries (arbres de préfixes)
+
+ Algorithmes de tri testés :
+Tri à bulles (Bubble Sort)
+
+Tri par insertion (Insertion Sort)
+
+Tri par sélection (Selection Sort)
+
+Tri rapide (Quick Sort)
+
+Tri fusion (Merge Sort)
+
+Tri par tas (Heap Sort)
+
+Tri radix (Radix Sort)
+
+Tri comptage (Counting Sort)
+
+Tri Shell (Shell Sort)
+
